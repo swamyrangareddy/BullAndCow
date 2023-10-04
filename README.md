@@ -1,1 +1,3 @@
-the game guess the number that create random numbers every time the game start. to guess the number in 7 chances
+the game that guess the numbers from 100 to 999.
+there are 7 chances to guess the three digit number.
+every time the game gives random number.
